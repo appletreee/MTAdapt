@@ -1,0 +1,6 @@
+*.py
+/configs
+!trainers/*.py
+/datasets/data_list
+/datasets/eval
+!/datasets/VisDA_Dataset.py
